@@ -296,11 +296,11 @@ button {
 }
 
 .legend-indicator.eating.yes {
-  background-color: #fd7e14;
+  background-color: #ffcccb;
 }
 
 .legend-indicator.eating.no {
-  background-color: #20c997;
+  background-color: #90ee90;
 }
 
 .legend-indicator.no-data {
@@ -392,11 +392,11 @@ button {
 }
 
 .indicator.eating.yes {
-  background-color: #fd7e14;
+  background-color: #ffcccb;
 }
 
 .indicator.eating.no {
-  background-color: #20c997;
+  background-color: #90ee90;
 }
 
 .indicator.eating.no-answer {
