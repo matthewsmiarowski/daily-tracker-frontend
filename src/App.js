@@ -350,11 +350,11 @@ function App() {
             </div>
             <div className="legend-item">
               <div className="legend-indicator eating yes"></div>
-              <span>Overate</span>
+              <span>Too much</span>
             </div>
             <div className="legend-item">
               <div className="legend-indicator eating no"></div>
-              <span>Ate Well</span>
+              <span>Just right</span>
             </div>
             <div className="legend-item">
               <div className="legend-indicator no-data"></div>
